@@ -1,0 +1,16 @@
+# Ignore Rails files
+backend/log/*
+backend/tmp/*
+backend/.env
+backend/.byebug_history
+
+# Ignore Node.js files
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+.DS_Store
